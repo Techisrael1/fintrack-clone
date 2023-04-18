@@ -1,0 +1,23 @@
+.credit-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.credit-card-text h2 {
+    color: black;
+    font-weight: bold;
+}
+
+.appstorez {
+    margin-top: 40px;
+    cursor: pointer;
+}
+
+.appstorez img {
+    margin-right: 20px;
+}
+
+.credit-card-text span{
+color: #899dd9;
+}

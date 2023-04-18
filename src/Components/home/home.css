@@ -1,0 +1,21 @@
+main {
+    text-align: center;
+}
+
+main h3 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+h3 span {
+    color: #899dd9;
+}
+
+.mock-up img {
+    width: 40%;
+}
+
+.appstore-btn img {
+    margin-left: 10px;
+    cursor: pointer;
+}

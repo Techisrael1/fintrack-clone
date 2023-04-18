@@ -1,0 +1,135 @@
+.serviz {
+    margin-top: -100px;
+    position: relative;
+    z-index: 10;
+}
+
+.services {
+    display: flex;
+    background-color: #899dd9;
+    justify-content: space-between;
+    padding: 20px 50px;
+    align-items: center;
+    padding-left: 120px;
+    padding-right: 120px;
+    height: 40px;
+}
+
+.service-1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.service-1 h2 {
+    padding-right: 30px;
+    font-size: 40px;
+
+}
+
+.service-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.service-2 h2 {
+    padding-right: 30px;
+    font-size: 40px;
+}
+
+.service-3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.service-3 h2 {
+    padding-right: 30px;
+    font-size: 40px;
+}
+
+.vertical-rule {
+    border-left: 2px solid white;
+    height: 35px;
+    margin-left: 150px;
+
+}
+
+.partners {
+    margin-top: 50px;
+}
+
+.partners p {
+    text-align: center;
+    font-weight: 500;
+}
+
+.partners-logo {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.partners-logo img {
+    width: 100px;
+    cursor: pointer;
+}
+
+.why-us {
+    margin-top: 50px;
+}
+
+.why-us p {
+    color: #899dd9;
+}
+
+.why-us h2 {
+    text-align: center;
+}
+
+.money-flow {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 50px;
+}
+
+.numbers h2 {
+    background-color: #899dd9;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    color: white;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.money-flow-text {
+    display: flex;
+    margin-top: 80px;
+
+
+}
+
+.text1 {
+    width: 500px;
+    padding-left: 20px;
+    margin-top: -30px;
+    padding-bottom: 30px;
+}
+
+.text1 h4 {
+    font-weight: bold;
+}
+
+.text1 p {
+    color: black;
+}
