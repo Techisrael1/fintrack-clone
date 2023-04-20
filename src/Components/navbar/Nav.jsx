@@ -6,7 +6,7 @@ const Nav = () => {
 			<nav>
 				<div className="left">
 					<i class="fa-solid fa-bolt">
-						<span>Fintrack</span>
+						<span>FINTRACK</span>
 					</i>
 				</div>
 				<div className="right">
